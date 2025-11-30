@@ -1,0 +1,21 @@
+# Python / Notebooks
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive data
+Information Retrieval/data/raw_documents/*
+json_data/*
